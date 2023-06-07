@@ -6,3 +6,4 @@ asgiref==3.5.2
 sqlparse==0.4.2
 flower==1.2.0
 celery==5.2.7
+stripe==4.0.2
